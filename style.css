@@ -16,6 +16,13 @@ header {
   font-size: 2rem;
 }
 
+header span {
+  font-size: 60px;
+  position: absolute;
+  top:1vh;
+  right: 20%;
+}
+
 /* centering the form on the page */
 header,
 form {
